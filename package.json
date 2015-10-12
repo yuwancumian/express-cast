@@ -5,9 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.13.3",
-    "expressworks": "^2.3.2",
-    "hbs": "^3.1.1",
-    "learnyounode": "^2.5.2"
+    "hbs": "^3.1.1"
   },
   "devDependencies": {},
   "scripts": {
